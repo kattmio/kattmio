@@ -1,6 +1,5 @@
 <!--
-  kattmio • Material You / Material 3 • CAT EDITION
-  A cozy little corner of the internet.
+  kattmio • Material 3 • CAT EDITION
 -->
 
 <div align="center">
@@ -15,58 +14,58 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kattmio&style=for-the-badge&color=6750A4&label=VISITORS)
 ![Cat energy](https://img.shields.io/badge/cat%20energy-100%25-625B71?style=for-the-badge)
-![Powered by](https://img.shields.io/badge/powered%20by-snacks%20%26%20curiosity-E8DEF8?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/powered%20by-curiosity-E8DEF8?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🐈 About me
+## About me
 
-> A human-shaped cat enthusiast who likes building things, tweaking tech, and making the internet a little more fun.
+Hey! I'm Kattmio, a student developer interested in software, operating systems, and making technology work the way I want it to.
 
-- 💻 **Into:** programming, Android, Linux, and tech experiments
-- 🛠️ **Building:** little projects, big ideas, and occasional bugs that become features
-- 🎨 **Design vibe:** Material 3, rounded corners, soft colors, and cozy UI
-- 🐾 **Core personality:** curious cat with too many tabs open
-- ☕ **Current status:** probably debugging something
+- 💻 I enjoy experimenting with **Linux and Android**.
+- 📱 I'm interested in **Android customization, modding, and open-source projects**.
+- 🧰 I like building small tools, automating tasks, and learning by making things.
+- 🎨 I appreciate clean interfaces, especially **Material Design 3** and Pixel-inspired design.
+- 🐈 Cats are an important part of the aesthetic. Naturally.
 
-## 🎨 My little tech shelf
+## Tools & technologies
 
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=173B2D)
-![Linux](https://img.shields.io/badge/Linux-DCCBFF?style=for-the-badge&logo=linux&logoColor=30264D)
-![GitHub](https://img.shields.io/badge/GitHub-1D1B20?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Code](https://img.shields.io/badge/Code%20mode-6750A4?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-6750A4?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-625B71?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-625B71?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1D1B20?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-E8DEF8?style=for-the-badge&logo=kotlin&logoColor=30264D)
+![Linux](https://img.shields.io/badge/Linux-6750A4?style=for-the-badge&logo=linux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-625B71?style=for-the-badge&logo=android&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1D1B20?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 🐾 Cat facts
+## What I'm interested in
 
-| Material You card | Cat-approved value |
-|:--|:--|
-| **Favorite activity** | Exploring and tinkering |
-| **Debugging strategy** | Stare at the code until it gets nervous |
-| **Battery level** | Depends on snacks |
-| **Operating mode** | Curious |
-| **Known issue** | May randomly talk about cats |
+- **Operating systems:** Linux distributions, desktop environments, and OS customization.
+- **Android:** ADB, Fastboot, custom ROMs, and making devices feel more personal.
+- **Development:** scripting, utilities, bots, and app ideas.
+- **UI design:** Material 3, thoughtful layouts, and consistent visual design.
 
-## 🌙 The cat manifesto
+## GitHub
 
-- Make cool things.
-- Keep learning.
-- Be kind to humans *and* cats.
-- If it works, don't touch it. If it doesn't work, add a cat.
-- Remember: every bug is just a tiny creature living in your code.
+This profile is where I share projects, experiments, and things I'm learning. Some projects may be works in progress — that's part of the process.
+
+If something catches your eye, feel free to explore the repositories or open an issue.
+
+---
 
 <div align="center">
 
-### Thanks for stopping by!
+**Keep learning. Keep building. Stay curious.**
 
-**Stay curious. Stay cozy. Pet a cat.**  
 `ฅ^•ﻌ•^ฅ`
 
-<sub>Designed with Material 3 vibes, cat energy, and a suspicious amount of paw prints.</sub>
+<sub>Made with code, curiosity, and a little cat energy.</sub>
 
 </div>
